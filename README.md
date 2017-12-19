@@ -1,11 +1,7 @@
 ##########################
 ######## PROJECT 2 ####### 
 #### GOSSIP SIMULATOR ####
-############3#############
-
-#Group members#
-1) Raheen Mazgaonkar, UFID: 47144316
-2) Varun Mankal, UFID: 04827615
+##########################
 
 #Implementation Details:#
 
